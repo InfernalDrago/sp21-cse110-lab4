@@ -39,4 +39,8 @@
 14. e. Answer: false the evaluation of true is 1, which is not equal to 2
 14. f. Answer: true Boolean(2) is evaluated to true because it is not 0
 15. == is used for comparison and doesn't take typing into account. === compares the value of the two sides and their typings
-17.
+17. The for loop iterates through the array, then for each value calls the callback function on the value. After the doSomething calculation the result is pushed into a new array.
+19. 1
+    4
+    3
+    2
